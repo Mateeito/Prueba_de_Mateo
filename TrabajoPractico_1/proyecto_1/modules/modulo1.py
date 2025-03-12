@@ -12,3 +12,4 @@ def funcion2():
     print("gantplank top es meta")
 fucion()
 funcion2()
+print "las tartas del comedor subieron de precio"
