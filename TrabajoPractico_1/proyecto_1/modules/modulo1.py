@@ -10,3 +10,5 @@ def fucion():
 
 def funcion2():
     print("gantplank top es meta")
+fucion()
+funcion2()
